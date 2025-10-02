@@ -1,4 +1,4 @@
-# 🤖 Facebook Messenger Bot Setup Tutorial
+# 🤖 Facebook PageBot Setup Tutorial
 
 Complete guide to creating and deploying your Facebook Messenger bot
 
